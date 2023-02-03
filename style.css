@@ -1,0 +1,66 @@
+header {
+    text-align: center;
+    background: pink;
+}
+strong {
+    color: brown;
+}
+.paragrafo p {
+    text-align: center;
+}
+.imagemQualidades {
+    width: 30%;
+}
+#modelos {
+    text-align: center;
+}
+.diferenciais {
+    background: pink;
+    padding: 20px;
+}
+.listaDiferenciais {
+    display: inline-block;
+    vertical-align: top;
+    width: 20%;
+    margin-right: 15%;
+}
+.itens {
+    font-style: italic;
+}
+.lista li {
+    display: inline-block;
+    padding: 50px 0;
+}
+h4 {
+    text-align: center;
+}
+.produtos {
+    display: inline;
+}
+.contato {
+    width: 940px;
+    margin: 0 auto;
+}
+h1 {
+    text-align: center;
+}
+form {
+    margin: 40 px 0;
+}
+form label {
+    display: block;
+    font-size: 20px;
+    margin: 0 0 10px;
+}
+form input {
+    display: block;
+    margin: 0 0 20px;
+    padding: 10px 25px;
+    width: 50%;
+}
+
+footer {
+    text-align: center;
+    background: pink;
+    
+}
