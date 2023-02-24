@@ -1,3 +1,4 @@
+![GitMemory-Bear](https://user-images.githubusercontent.com/124155078/221212370-fa1055ee-a303-4191-97d7-9400be997436.gif)
 
 
 
@@ -10,16 +11,12 @@
 # Sobre o projeto
 
 
-- Site feito para uma artesã
+- layout feito para uma artesã
 - Fabricação de ursinhos com roupas infantis
 - Opção de escolhas de ursos com descrição e valor
 - interface é simples, direta e de fácil navegabilidade.
 - versão sem publicidades.
 
-## Precisa ser melhorado:
-
-- Responsividade
-- Não faz compras direto no site
 
 # [![License: MIT](https://img.shields.io/badge/License-MIT-greem.svg)](https://opensource.org/licenses/MIT)
 
