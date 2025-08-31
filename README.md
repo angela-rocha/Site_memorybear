@@ -26,7 +26,7 @@
 
 ### 🚀 acesse o site:
 
-[https://angela-silva.github.io/Site-memorybear/]()](https://angela-silva.github.io/Site-memorybear/)
+(https://angela-silva.github.io/Site-memorybear/)
 
 ## Para Instalação:
 
