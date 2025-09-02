@@ -26,16 +26,7 @@
 
 ### 🚀 acesse o site:
 
-(https://angela-silva.github.io/Site-memorybear/)
-
-## Para Instalação:
-
-* Antes de começar, você vai precisar:
-
-* Clonar o repositório.
-* Ter instalado em sua máquina as seguintes ferramentas:
-[Git](https://git-scm.com)
-* Além disto é bom ter um editor para trabalhar com o código como [VSCode](https://code.visualstudio.com/)
+[Acesse aqui](https://angela-silva.github.io/Site_memorybear/)
 
 
 ## 🔧 Tecnologia utilizada
