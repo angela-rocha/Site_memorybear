@@ -2,7 +2,7 @@
 
 
 
- # SITE MEMORY BEAR
+ # SITE MEMORY BEAR 
 
 
  
@@ -11,7 +11,6 @@
 # Sobre o projeto
 
 
-- layout feito para uma artesã
 - Fabricação de ursinhos com roupas infantis
 - Opção de escolhas de ursos com descrição e valor
 - interface é simples, direta e de fácil navegabilidade.
@@ -39,7 +38,7 @@
 ## Autora
 
 ![imagem Angela Silva](https://media.licdn.com/dms/image/D4D03AQGzK8Y4s4kL2w/profile-displayphoto-shrink_800_800/0/1673020966867?e=1682553600&v=beta&t=TxhI4xPC6atXg6w774KIrhlY2OXhrzfCt3zemj1qGpU)
-##### Feito com ❤ por Angela Silva ❤
+##### Feito com ❤ por Angela Rocha ❤
 
 ## Feedback
 
