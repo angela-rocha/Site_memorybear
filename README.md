@@ -2,13 +2,9 @@
 
 
 
- ## SITE MEMORY BEAR 
+## SITE MEMORY BEAR 
 
-
- 
- 
-
-# Sobre o projeto
+## Sobre o projeto
 
 
 - Fabricação de ursinhos com roupas infantis
