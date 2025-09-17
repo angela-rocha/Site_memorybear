@@ -29,7 +29,7 @@
 
 ## Autora
 
-##### Feito com ❤ por Angela Rocha ❤
+##### Feito com ❤ por Angela Rocha 
 
 ## Feedback
 
