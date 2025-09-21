@@ -17,7 +17,7 @@
 
 ### 🚀 acesse:
 
-[Acesse aqui](https://angela-silva.github.io/Site_memorybear/)
+[Acesse aqui](https://angela-rocha.github.io/Site_memorybear/)
 
 
 ## 🔧 Tecnologia utilizada
