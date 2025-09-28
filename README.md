@@ -1,4 +1,4 @@
-## Minha primeira home page
+## Minha primeira home page.
 
 ![GitMemory-Bear](https://user-images.githubusercontent.com/124155078/221212370-fa1055ee-a303-4191-97d7-9400be997436.gif)
 
